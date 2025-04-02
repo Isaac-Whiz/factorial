@@ -1,3 +1,4 @@
+// Lorna Naula & Ssekajja Wavamuno Isaac
 function factorial(n) {
   let result = 1;
   if (n < 0 || isNaN(n)) {
